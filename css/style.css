@@ -1,13 +1,13 @@
 .nav-top {
 
-    background-color: rgb(47, 47, 114) !important;
+    background-color: #003b95 !important;
 
 }
 
 .nav-menu {
 
     color: white !important;
-    background-color: rgb(47, 47, 114) !important;
+    background-color: #003b95 !important;
     margin: 0.3em !important;
     border-radius: 0.3em !important;
     font-weight: bold !important;
@@ -17,7 +17,7 @@
 .nav-menu:hover {
 
 
-    background-color: white !important;
+    background-color: rgba(255, 255, 255, 0.24) !important;
 
 }
 
@@ -25,9 +25,9 @@
 .btn-pesquisa {
 
     color: white !important;
-    background-color: rgb(47, 47, 114) !important;
+    background-color: #0d6efd !important;
     border-radius: 0.3em !important;
-    border-color: rgb(47, 47, 114) !important;
+    border-color: #003b95 !important;
     font-weight: bold !important;
 }
 
@@ -41,15 +41,15 @@
 
 .carousel-caption {
 
-    background-color: rgb(233, 233, 233) !important;
+    background-color: rgba(233, 233, 233, 0.425) !important;
     width: auto !important;
-    color: black !important;
+    color: rgb(252, 252, 252) !important;
 }
 
 
 .divisao {
 
-    background-color: rgb(47, 47, 114) !important;
+    background-color: #003b95 !important;
     color: white !important;
     text-align: center !important;
     padding: 5% !important;
@@ -65,7 +65,30 @@
     margin: 0.5% !important;
 }
 
-.card{
+.card {
     margin-left: 1em !important;
     padding: 1em !important;
 }
+
+
+footer {
+
+    background-color: #003b95 !important;
+    padding: 1em !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+
+.sec-contatos{
+
+
+margin-left: 2% !important;
+margin-right: 2% !important;
+}
+
+.formulario{
+    background-color: #003b95 !important;
+}
+
+
